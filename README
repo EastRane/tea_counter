@@ -1,0 +1,7 @@
+Practical use of the program:
+You drink a certain number of cups of tea every day. 
+This program will allow you, running this file daily at the end of the day and entering the value of tea consumed, as well as distributing the tea consumed into 4 categories, save the values and keep track of the tea you have drunk since a certain date.
+
+Indicate on the 4th line of the "tea.py" file the starting date of the tea consumed.
+If the first request of the program to specify the number "0", the program will reset the entire counter.
+If the first program request indicates the number "1000", the program will simply display all the stored values.
